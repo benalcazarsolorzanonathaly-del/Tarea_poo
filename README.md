@@ -55,9 +55,10 @@ Sistema orientado a objetos que implementa vehículos utilizando los principios 
               ║+__str__() ║
               ╚═══════════╝
 
-## 🎯 Capturas
+
 <img width="1364" height="767" alt="Captura de pantalla 2025-11-14 170226" src="https://github.com/user-attachments/assets/24bbb88b-4e39-467f-8320-68f5eaa58259" />
 <img width="1365" height="766" alt="Captura de pantalla 2025-11-14 170239" src="https://github.com/user-attachments/assets/3973535b-574b-4865-931a-048aca946ce7" />
+
 
 
 
